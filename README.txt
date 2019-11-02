@@ -1,0 +1,1 @@
+Filtro básico de tabelas.
